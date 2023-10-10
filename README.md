@@ -12,7 +12,7 @@ A classic Snake game implemented using HTML, JavaScript, and CSS. The snake navi
 ## How to Play
 
 1. **Clone the Repository:**
-https://github.com/VipulSharma0001/Snake-Game
+[https://github.com/VipulSharma0001/Snake-Game](https://github.com/VipulSharma0001/Snake-Game/tree/main/snake%20game)
 
 2. **Open in Visual Studio Code:**
 - Open the cloned repository in Visual Studio Code.
